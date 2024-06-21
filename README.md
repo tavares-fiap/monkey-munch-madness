@@ -1,7 +1,6 @@
 ## Monkey Munch Madness
 
 Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você controla um macaco faminto que precisa comer bananas para sobreviver! 
-
 ![Imagem do macaco comendo uma banana](data/img/menu_background.png)
 
 ### Instalação
@@ -14,6 +13,7 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
 
 * **Movimentação:** Use as teclas WASD ou as setas do teclado para controlar o macaco.
 * **Coma Bananas:** Colete bananas para ganhar pontos e crescer!
+![Imagem banana](data/img/banana.png)
 * **Aumento de Tamanho:** A cada 5 bananas comidas, o macaco aumenta de tamanho.
 * **Habilidades:**
     * **Digerir (C):** Diminui o macaco para o tamanho original. Possui um cooldown de 300 frames. 
