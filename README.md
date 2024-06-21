@@ -1,3 +1,9 @@
+## PEDRO HENRIQUE PEDROSA TAVARES - RM97877
+## GUILHERME ROCHA BIANCHINI - RM97974 
+## NIKOLAS RODRIGUES MOURA DOS SANTOS - RM551566 
+## THIAGO JARDIM DE OLIVEIRA - RM551624 
+## RODRIGO BRASILEIRO – RM98952
+
 ## Monkey Munch Madness
 
 Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você controla um macaco faminto que precisa comer bananas para sobreviver! 
