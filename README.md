@@ -6,7 +6,7 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
 
 ### Instalação
 
-1. **Baixe o código:** Baixe este repositório ou clone-o usando `git clone https://github.com/seu-repositorio/monkey-munch-madness.git`.
+1. **Baixe o código:** Baixe este repositório ou clone-o usando `git clone https://github.com/tavares-fiap/monkey-munch-madness`.
 2. **Instale o Pygame:** Se ainda não tiver, instale o Pygame usando `pip install pygame`.
 3. **Execute o Jogo:** Execute o arquivo `jogo.py` .
 
