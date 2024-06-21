@@ -19,11 +19,10 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
 ![Imagem banana](data/img/banana.png)
 * **Aumento de Tamanho:** A cada 5 bananas comidas, o macaco aumenta de tamanho.
 * **Habilidades:**
-    * **Digerir (C):** Diminui o macaco para o tamanho original. Possui um cooldown de 300 frames.
+* **Digerir (C):** Diminui o macaco para o tamanho original. Possui um cooldown de 300 frames.
 
 ![Imagem habilidade digerir](data/img/ilustracao-digerir.png)
-
-   * **Teletransporte (X):** Teleporta o macaco para a posição do mouse. Você começa com 3 teletransportes e pode coletar mais ao encontrar elementos de teleporte no mapa. 
+* **Teletransporte (X):** Teleporta o macaco para a posição do mouse. Você começa com 3 teletransportes e pode coletar mais ao encontrar elementos de teleporte no mapa. 
 
 ![Imagem elemento teleporte](data/img/teleport.png)
 * **Labirinto:** O labirinto é gerado aleatoriamente a cada partida, desafiando você a encontrar as bananas e evitar as pedras. 
