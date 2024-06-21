@@ -18,7 +18,6 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
 
 ![Imagem banana](data/img/banana.png)
 * **Aumento de Tamanho:** A cada 5 bananas comidas, o macaco aumenta de tamanho.
-* **Habilidades:**
 * **Digerir (C):** Diminui o macaco para o tamanho original. Possui um cooldown de 300 frames.
 
 ![Imagem habilidade digerir](data/img/ilustracao-digerir.png)
