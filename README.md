@@ -1,6 +1,8 @@
 ## Monkey Munch Madness
 
 Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você controla um macaco faminto que precisa comer bananas para sobreviver! 
+
+
 ![Imagem do macaco comendo uma banana](data/img/menu_background.png)
 
 ### Instalação
@@ -13,12 +15,15 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
 
 * **Movimentação:** Use as teclas WASD ou as setas do teclado para controlar o macaco.
 * **Coma Bananas:** Colete bananas para ganhar pontos e crescer!
+
 ![Imagem banana](data/img/banana.png)
 * **Aumento de Tamanho:** A cada 5 bananas comidas, o macaco aumenta de tamanho.
 * **Habilidades:**
-    * **Digerir (C):** Diminui o macaco para o tamanho original. Possui um cooldown de 300 frames. 
+    * **Digerir (C):** Diminui o macaco para o tamanho original. Possui um cooldown de 300 frames.
+
 ![Imagem habilidade digerir](data/img/ilustracao-digerir.png)
     * **Teletransporte (X):** Teleporta o macaco para a posição do mouse. Você começa com 3 teletransportes e pode coletar mais ao encontrar elementos de teleporte no mapa. 
+
 ![Imagem elemento teleporte](data/img/teleport.png)
 * **Labirinto:** O labirinto é gerado aleatoriamente a cada partida, desafiando você a encontrar as bananas e evitar as pedras. 
 * **Wrap Around:** O mapa é contínuo, permitindo que o macaco saia de um lado da tela e reapareça no outro.
@@ -41,18 +46,8 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
     * `data/sounds/`: Contém os efeitos sonoros do jogo, como som de mordida, teletransporte, etc.
 * **Música:**
     * `data/sounds/`: Contém a música de fundo do jogo. **A música tema foi composta pelo grupo no FL Studio!**
+
 ![Imagem criacao da musica no FLSTUDIO](data/img/ilustracao-flstudio.png)
-### Créditos
-
-* Desenvolvido por: [Seu Nome]
-
-### Licença
-
-Este projeto é licenciado sob a [Licença MIT] (LICENSE). 
-
-### Feedback
-
-Sua opinião é importante! Se você tiver algum feedback, sugestões ou problemas com o jogo, por favor, abra uma issue neste repositorio.
 
 ### Desafios Cumpridos
 
@@ -61,6 +56,7 @@ Sua opinião é importante! Se você tiver algum feedback, sugestões ou problem
     * As pedras são desenhadas como Sprites de Pedras.
     * O jogador não consegue passar pelas pedras.
     * O jogo suporta múltiplas pedras, formando um labirinto.
+
 ![Imagem PEDRA](data/img/rock1.png)
 * **Labirinto:** 
     * Um labirinto foi desenhado manualmente, utilizando várias pedras.
@@ -75,6 +71,15 @@ Sua opinião é importante! Se você tiver algum feedback, sugestões ou problem
     * O mesmo comportamento se aplica aos limites superior e inferior da tela. 
 
 ![Imagem do labirinto com o jogador](data/img/labirinto_jogador.png)
+
+
+### Créditos
+
+* Desenvolvido por: Pedro Tavares, Nikolas Rodrigues, Rodrigo Brasileiro, Guilherme Rocha, Thiago Jardim 
+
+### Feedback
+
+Sua opinião é importante! Se você tiver algum feedback, sugestões ou problemas com o jogo, por favor, abra uma issue neste repositorio.
 
 **Divirta-se jogando Monkey Munch Madness!**
 
