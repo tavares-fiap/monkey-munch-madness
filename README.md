@@ -2,7 +2,7 @@
 
 Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você controla um macaco faminto que precisa comer bananas para sobreviver! 
 
-![Imagem do macaco comendo uma banana](data\img\menu_background.png)
+![Imagem do macaco comendo uma banana](data/img/menu_background.png)
 
 ### Instalação
 
