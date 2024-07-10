@@ -5,6 +5,10 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
 
 ![Imagem do macaco comendo uma banana](data/img/menu_background.png)
 
+### Autor
+
+- [Pedro Tavares](https://www.linkedin.com/in/pedro-tavares-7ab626297)
+
 ### Instalação
 
 1. **Baixe o código:** Baixe este repositório ou clone-o usando `git clone https://github.com/tavares-fiap/monkey-munch-madness`.
@@ -70,11 +74,6 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
     * O mesmo comportamento se aplica aos limites superior e inferior da tela. 
 
 ![Imagem do labirinto com o jogador](data/img/ilustracao-labirinto.png)
-
-
-## Autor
-
-- [Pedro Tavares](https://www.linkedin.com/in/pedro-tavares-7ab626297) 
 
 ### Feedback
 
