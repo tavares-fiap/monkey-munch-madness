@@ -5,10 +5,6 @@ Este é um jogo simples de plataforma 2D desenvolvido com Pygame, onde você con
 
 ![Imagem do macaco comendo uma banana](data/img/menu_background.png)
 
-### Autor
-
-- [Pedro Tavares](https://www.linkedin.com/in/pedro-tavares-7ab626297)
-
 ### Instalação
 
 1. **Baixe o código:** Baixe este repositório ou clone-o usando `git clone https://github.com/tavares-fiap/monkey-munch-madness`.
@@ -81,6 +77,8 @@ Sua opinião é importante! Se você tiver algum feedback, sugestões ou problem
 
 **Divirta-se jogando Monkey Munch Madness!**
 
+## Autor
 
+- [Pedro Tavares](https://www.linkedin.com/in/pedro-tavares-7ab626297)
 
 
